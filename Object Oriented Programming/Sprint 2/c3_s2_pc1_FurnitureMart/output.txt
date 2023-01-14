@@ -1,0 +1,31 @@
+furniture code = 1
+furniture type = chairs
+furniture usage = outdoor
+color = blue
+grade of furniture = grade 1
+price = 2000.0
+Discounted Price:1900.0
+
+Process finished with exit code 0
+
+
+furniture code = 0
+furniture type = cupboards
+furniture usage = indoor
+color = blue
+grade of furniture = grade 2
+price = 5000.0
+Discounted Price:5000.0
+
+Process finished with exit code 0
+
+
+furniture code = 0
+furniture type = stools
+furniture usage = outdoor
+color = red
+grade of furniture = grade 1
+price = 800.0
+Discounted Price:760.0
+
+Process finished with exit code 0

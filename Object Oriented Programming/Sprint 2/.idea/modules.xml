@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Sprint 2.iml" filepath="$PROJECT_DIR$/.idea/Sprint 2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/c3_s2_mc1_onlinebanking/c3_s2_mc1_onlinebanking.iml" filepath="$PROJECT_DIR$/c3_s2_mc1_onlinebanking/c3_s2_mc1_onlinebanking.iml" />
+      <module fileurl="file://$PROJECT_DIR$/c3_s2_pc1_FurnitureMart/c3_s2_pc1_FurnitureMart.iml" filepath="$PROJECT_DIR$/c3_s2_pc1_FurnitureMart/c3_s2_pc1_FurnitureMart.iml" />
+    </modules>
+  </component>
+</project>
